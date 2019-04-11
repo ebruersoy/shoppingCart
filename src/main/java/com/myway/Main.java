@@ -1,4 +1,6 @@
-import entity.*;
+package com.myway;
+
+import com.myway.entity.*;
 
 import java.util.ArrayList;
 import java.util.List;

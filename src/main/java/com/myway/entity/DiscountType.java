@@ -1,4 +1,4 @@
-package entity;
+package com.myway.entity;
 
 /**
  * @author Ebru Göksal

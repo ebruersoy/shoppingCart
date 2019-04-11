@@ -1,4 +1,6 @@
-import entity.*;
+package com.myway;
+
+import com.myway.entity.*;
 import org.junit.BeforeClass;
 import org.junit.Test;
 
